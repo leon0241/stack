@@ -70,6 +70,7 @@ makeGUI() {
   Gui, font, s11
   Gui, add, Text, ,% "exponent - Ctrl + 2"
   Gui, add, Text, ,% "square - Shift + 2"
+  Gui, add, Text, ,% "e^ - Ctrl + e"
   Gui, add, Text, ,% "sin/cos/tan - Ctrl + s/c/t"
   Gui, add, Text, ,% "trig inverse - Ctrl + Alt + s/c/t"
   Gui, show, W%GUI_X% H%GUI_Y% X%screenResX% Y%screenResY% NoActivate
