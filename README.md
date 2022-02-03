@@ -8,7 +8,10 @@
 
 ### Features
 - Asterisk handling for brackets, and a few variables such as x and y
-- Shortcuts for Exponents, basic trig functions
+- Shortcuts for Exponents, basic trig functions, e^
+
+### Demonstration
+![Demo](https://i.imgur.com/1jbiptE.gif)
 
 ### Aoba Moca
 ![Aoba Moca](https://i.imgur.com/9rCLgJs.jpeg)
